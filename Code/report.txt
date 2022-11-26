@@ -1,0 +1,263 @@
+QUERY1
+Filter applied, 18 students found
+
+Kim Smith, Year: 3; GPA: 0.00; Courses: 0
+Languages: English Spanish Lithuanian
+
+Karl Sheen, Year: 1; GPA: 0.00; Courses: 0
+Languages: English Russian Spanish
+
+Sole Kesting, Year: 2; GPA: 0.00; Courses: 0
+Languages: English Spanish French
+
+...
+
+
+QUERY2
+Filter applied, 872 students found
+
+Kim Brightman, Year: 4; GPA: 6.00; Courses: 3
+Operating systems - 7, Computer networks - 6, Philosophy - 5,
+Languages: English French
+
+Angelina King, Year: 3; GPA: 8.00; Courses: 3
+Operating systems - 5, Algebra - 9, Algorithms - 10,
+Languages: English Spanish Lithuanian
+
+Adam Doe, Year: 2; GPA: 7.33; Courses: 3
+Discrete mathematics - 7, Computer programming - 8, Computer programming - 7, 
+Languages: English French Lithuanian
+
+...
+
+
+
+QUERY3
+Filter applied, 745 students found
+
+Charlie Smith, Year: 3; GPA: 8.00; Courses: 1
+Operating systems - 8,
+Languages: English
+
+Melissa Brightman, Year: 4; GPA: 5.00; Courses: 2
+Philosophy - 4, Calculus - 6,
+Languages: English Spanish Lithuanian
+
+Sole Gibbs, Year: 1; GPA: 5.75; Courses: 4
+Philosophy - 8, Calculus - 7, Computer programming - 7, Discrete mathematics - 1, 
+Languages: English Russian Lithuanian
+
+...
+
+
+QUERY4
+Filter applied, 477 students found
+
+George Wood, Year: 2; GPA: 5.20; Courses: 5
+Algorithms - 1, Discrete mathematics - 10, Operating systems - 6, Set theory - 8, Set theory - 1,
+Languages: English Lithuanian
+
+Jerry Stapleton, Year: 3; GPA: 7.75; Courses: 4
+Physics - 9, Set theory - 8, Physics - 8, Physics - 6,
+Languages: English Russian Lithuanian
+
+Jane Hudson, Year: 3; GPA: 6.00; Courses: 3
+Algorithms - 7, Algorithms - 1, Set theory - 10,
+Languages: English French
+
+...
+
+
+QUERY5
+Filter applied, 237 students found
+
+Kylie Wood, Year: 2; GPA: 8.00; Courses: 2
+Computer networks - 6, Discrete mathematics - 10,
+Languages: English
+
+Wilhelm Gibbs, Year: 1; GPA: 7.00; Courses: 2
+Algorithms - 5, Set theory - 9,
+Languages: English Russian Spanish
+
+Wilhelm Gibbs, Year: 3; GPA: 3.67; Courses: 6
+Discrete mathematics - 1, Computer networks - 1, Calculus - 7, Computer networks - 3, Physics - 4, Operating systems - 6, 
+Languages: English Russian
+
+...
+
+
+QUERY6
+Filter applied, 557 students found
+
+Matt Brightman, Year: 3; GPA: 7.00; Courses: 5
+Set theory - 5, Physics - 6, Algorithms - 10, Philosophy - 7, Computer networks - 7,
+Languages: English
+
+Adam Note, Year: 3; GPA: 8.00; Courses: 1
+Computer networks - 8,
+Languages: English
+
+Kylie Darry, Year: 4; GPA: 7.00; Courses: 1
+Philosophy - 7,
+Languages: English
+
+...
+
+
+QUERY7
+Filter applied, 174 students found
+
+Matt Stapleton, Year: 1; GPA: 6.00; Courses: 3
+Discrete mathematics - 6 | Set theory - 6 | Set theory - 6 | 
+Languages: English
+
+Luke Gibson, Year: 3; GPA: 8.00; Courses: 2
+Discrete mathematics - 8 | Computer programming - 8 |
+Languages: English Spanish
+
+Alex Wozniak, Year: 4; GPA: 6.50; Courses: 2
+Calculus - 6 | Discrete mathematics - 7 |
+Languages: English Spanish
+
+...
+
+
+QUERY8
+Filter applied, 75 students found
+
+Melissa Leben, Year: 3; GPA: 6.67; Courses: 6
+Philosophy - 6 | Computer networks - 9 | Discrete mathematics - 10 | Calculus - 5 | Operating systems - 9 | Algebra - 1 | 
+Languages: English
+
+Betty Sadman, Year: 1; GPA: 7.50; Courses: 2
+Calculus - 5 | Algebra - 10 | 
+Languages: English French
+
+Jessie Leben, Year: 2; GPA: 6.38; Courses: 8
+Algorithms - 9 | Calculus - 5 | Physics - 6 | Algorithms - 2 | Operating systems - 7 | Operating systems - 9 | Algebra - 7 | Calculus - 6 |
+Languages: English French Lithuania
+
+...
+
+
+QUERY9
+Filter applied, 228 students found
+
+Melissa Leben, Year: 3; GPA: 6.67; Courses: 6
+Philosophy - 6 | Computer networks - 9 | Discrete mathematics - 10 | Calculus - 5 | Operating systems - 9 | Algebra - 1 | 
+Languages: English
+
+Karl Druddle, Year: 1; GPA: 7.75; Courses: 4
+Philosophy - 6 | Operating systems - 9 | Set theory - 6 | Computer networks - 10 | 
+Languages: English French
+
+Debora Note, Year: 1; GPA: 7.25; Courses: 4
+Computer programming - 6 | Philosophy - 10 | Philosophy - 7 | Computer networks - 6 | 
+Languages: English Spanish French
+
+...
+
+
+QUERY10
+Filter applied, 235 students found
+
+Jenny Damon, Year: 4; GPA: 6.00; Courses: 2
+Computer networks - 4 | Physics - 8 | 
+Languages: English Russian Spanish Lithuanian
+
+Kim Smith, Year: 3; GPA: 0.00; Courses: 0
+
+Languages: English Spanish Lithuanian
+
+Jamie Doe, Year: 2; GPA: 6.25; Courses: 4
+Discrete mathematics - 7 | Algorithms - 2 | Operating systems - 6 | Discrete mathematics - 10 |
+Languages: English French Lithuanian
+
+...
+
+
+QUERY11
+Filter applied, 525 students found
+
+Kylie Gibson, Year: 1; GPA: 10.00; Courses: 1
+Algebra - 10 |
+Languages: English
+
+
+Charlie Wozniak, Year: 3; GPA: 6.00; Courses: 1
+Philosophy - 6 |
+Languages: English Russian Lithuanian
+
+
+Betty Wozniak, Year: 4; GPA: 7.00; Courses: 5
+Calculus - 10 | Physics - 7 | Computer networks - 6 | Algebra - 8 | Set theory - 4 |
+Languages: English French
+
+...
+
+
+QUERY12
+Filter applied, 3 students found
+
+Jamie Kesting, Year: 4; GPA: 8.60; Courses: 5
+Philosophy - 10 | Physics - 8 | Operating systems - 9 | Computer programming - 9 | Physics - 7 |
+Languages: English Russian Spanish French Lithuanian
+
+Jenny Hudson, Year: 4; GPA: 7.00; Courses: 1
+Set theory - 7 |
+Languages: English Russian Spanish French Lithuanian
+
+Karl Wood, Year: 4; GPA: 5.40; Courses: 5
+Set theory - 9 | Set theory - 2 | Algebra - 3 | Computer programming - 6 | Discrete mathematics - 7 | 
+Languages: English Russian Spanish French Lithuanian
+
+
+QUERY13
+Filter applied, 60 students found
+
+GPA should be: 7.50, instead of 6.50!
+Arnold Kesting, Year: 1; GPA: 6.50; Courses: 2
+Algorithms - 7 | Algebra - 8 | 
+Languages: English Russian
+
+GPA should be: 7.33, instead of 6.33!
+George Kesting, Year: 4; GPA: 6.33; Courses: 3
+Set theory - 6 | Calculus - 7 | Algebra - 9 | 
+Languages: English French
+
+GPA should be: 5.60, instead of 4.60!
+Melissa de Vito, Year: 4; GPA: 4.60; Courses: 5
+Philosophy - 6 | Algorithms - 6 | Set theory - 10 | Physics - 3 | Discrete mathematics - 3 |
+Languages: English Spanish
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
